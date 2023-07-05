@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Maina James</h1>
-<h3 align="center">| Full Stack Engineer 👩🏿‍💻 | Product Designer |</h3>
+<h3 align="center">| Full Stack Engineer 👩🏿‍💻 | Product Designer 🎨|</h3>
 
 - 👨‍💻 Product Design Portfolio:  [https://githinjim.xyz/](https://githinjim.xyz/)
 - 📄 My experiences: [https://www.linkedin.com/in/maina-githinji/](https://www.linkedin.com/in/maina-githinji/)
